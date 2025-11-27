@@ -1,0 +1,2 @@
+rootProject.name = "ExpenseTrackerAndroid"
+include ':app'
