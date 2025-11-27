@@ -1,0 +1,15 @@
+# Maven
+target/
+
+# General
+*.log
+*.iml
+.idea/
+.vscode/
+
+# Android / Gradle
+android-frontend/.gradle/
+android-frontend/.idea/
+android-frontend/local.properties
+android-frontend/app/build/
+android-frontend/build/
